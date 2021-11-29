@@ -1,9 +1,11 @@
-Console.WriteLine("Hello, World! \n");
+string name = "Bob";
+int messages = 3;
+decimal temperature = 34.4m;
 
-//Example of different ways of including print statements
-
-Console.WriteLine("This is the first line.");
-
-Console.Write("This is ");
-Console.Write("the second ");
-Console.Write("line.");
+Console.Write("Hello, ");
+Console.Write(name);
+Console.Write("! You have ");
+Console.Write(messages);
+Console.Write(" in your inbox. The temperature is ");
+Console.Write(temperature);
+Console.Write(" celsius.");
