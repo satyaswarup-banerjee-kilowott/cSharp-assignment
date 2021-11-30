@@ -14,6 +14,7 @@ namespace ConsoleApp2
             List<int> data = new List<int> { 40, 38, 37, 36, 34, 33, 32, 31, 30, 30, 30, 29, 26, 26, 19 };
 
             double mean;
+            int maxCount = 0;
             int maxNum = 0;
             double sum = 0;
             int i;
@@ -31,8 +32,12 @@ namespace ConsoleApp2
             int median = 0;
             if(n%2 != 0)
             {
-                 median = data[((n - 1) / 2)-1];
+                 median = data[n / 2];
 
+            }
+            else
+            {
+                median = (data[(n-1) / 2] + data[n/2]) / 2;
             }
 
             //Mode
@@ -47,9 +52,9 @@ namespace ConsoleApp2
                         count++;
                     }
                 }
-                if (count > 0)
+                if (count > maxCount)
                 {
-                   
+                     maxCount = count;
                     maxNum = data[i];
                     
                 }
