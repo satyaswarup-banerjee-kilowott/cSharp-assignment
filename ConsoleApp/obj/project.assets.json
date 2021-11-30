@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Satya\\source\\repos\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Satya\\source\\repos\\satyaswarup-banerjee-kilowott\\cSharp-assignment\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Users\\Satya\\source\\repos\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\Satya\\source\\repos\\satyaswarup-banerjee-kilowott\\cSharp-assignment\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Satya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Satya\\source\\repos\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\Satya\\source\\repos\\satyaswarup-banerjee-kilowott\\cSharp-assignment\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Satya\\AppData\\Roaming\\NuGet\\NuGet.Config",
