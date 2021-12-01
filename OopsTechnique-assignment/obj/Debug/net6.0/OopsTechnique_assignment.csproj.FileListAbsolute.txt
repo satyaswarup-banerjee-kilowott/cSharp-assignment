@@ -1,0 +1,15 @@
+C:\Users\Satya\source\repos\OopsTechnique-assignment\bin\Debug\net6.0\OopsTechnique_assignment.exe
+C:\Users\Satya\source\repos\OopsTechnique-assignment\bin\Debug\net6.0\OopsTechnique_assignment.deps.json
+C:\Users\Satya\source\repos\OopsTechnique-assignment\bin\Debug\net6.0\OopsTechnique_assignment.runtimeconfig.json
+C:\Users\Satya\source\repos\OopsTechnique-assignment\bin\Debug\net6.0\OopsTechnique_assignment.dll
+C:\Users\Satya\source\repos\OopsTechnique-assignment\bin\Debug\net6.0\ref\OopsTechnique_assignment.dll
+C:\Users\Satya\source\repos\OopsTechnique-assignment\bin\Debug\net6.0\OopsTechnique_assignment.pdb
+C:\Users\Satya\source\repos\OopsTechnique-assignment\obj\Debug\net6.0\OopsTechnique_assignment.csproj.AssemblyReference.cache
+C:\Users\Satya\source\repos\OopsTechnique-assignment\obj\Debug\net6.0\OopsTechnique_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satya\source\repos\OopsTechnique-assignment\obj\Debug\net6.0\OopsTechnique_assignment.AssemblyInfoInputs.cache
+C:\Users\Satya\source\repos\OopsTechnique-assignment\obj\Debug\net6.0\OopsTechnique_assignment.AssemblyInfo.cs
+C:\Users\Satya\source\repos\OopsTechnique-assignment\obj\Debug\net6.0\OopsTechnique_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Satya\source\repos\OopsTechnique-assignment\obj\Debug\net6.0\OopsTechnique_assignment.dll
+C:\Users\Satya\source\repos\OopsTechnique-assignment\obj\Debug\net6.0\ref\OopsTechnique_assignment.dll
+C:\Users\Satya\source\repos\OopsTechnique-assignment\obj\Debug\net6.0\OopsTechnique_assignment.pdb
+C:\Users\Satya\source\repos\OopsTechnique-assignment\obj\Debug\net6.0\OopsTechnique_assignment.genruntimeconfig.cache
