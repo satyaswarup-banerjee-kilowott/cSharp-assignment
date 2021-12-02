@@ -1,0 +1,15 @@
+C:\Users\Satya\Downloads\ResultsClass\bin\Debug\net6.0\FirstConsoleApp.exe
+C:\Users\Satya\Downloads\ResultsClass\bin\Debug\net6.0\FirstConsoleApp.deps.json
+C:\Users\Satya\Downloads\ResultsClass\bin\Debug\net6.0\FirstConsoleApp.runtimeconfig.json
+C:\Users\Satya\Downloads\ResultsClass\bin\Debug\net6.0\FirstConsoleApp.dll
+C:\Users\Satya\Downloads\ResultsClass\bin\Debug\net6.0\ref\FirstConsoleApp.dll
+C:\Users\Satya\Downloads\ResultsClass\bin\Debug\net6.0\FirstConsoleApp.pdb
+C:\Users\Satya\Downloads\ResultsClass\obj\Debug\net6.0\FirstConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Satya\Downloads\ResultsClass\obj\Debug\net6.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satya\Downloads\ResultsClass\obj\Debug\net6.0\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Satya\Downloads\ResultsClass\obj\Debug\net6.0\FirstConsoleApp.AssemblyInfo.cs
+C:\Users\Satya\Downloads\ResultsClass\obj\Debug\net6.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Satya\Downloads\ResultsClass\obj\Debug\net6.0\FirstConsoleApp.dll
+C:\Users\Satya\Downloads\ResultsClass\obj\Debug\net6.0\ref\FirstConsoleApp.dll
+C:\Users\Satya\Downloads\ResultsClass\obj\Debug\net6.0\FirstConsoleApp.pdb
+C:\Users\Satya\Downloads\ResultsClass\obj\Debug\net6.0\FirstConsoleApp.genruntimeconfig.cache
